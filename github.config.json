@@ -1,6 +1,6 @@
 {
-  "username": "YOUR_GITHUB_USERNAME",
-  "repository": "YOUR_REPO_NAME",
+  "username": "JayJgao",
+  "repository": "toybox",
   "description": "Configuration for GitHub deployment. Update these values when using this template.",
   "customization": {
     "siteName": "TOYBOX",
